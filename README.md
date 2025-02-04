@@ -1,4 +1,4 @@
-Assessment webpage files for Certificate 3 in IT 
+Assessment webpage files for Certificate 3 in IT, written in VSCode
 
 Featuring: homepage, sidebar navigation, image gallery, interactable pages and a registration page 
 
